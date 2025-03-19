@@ -1,6 +1,6 @@
-# Health Care Lab Project
+# Template Go Web App
 
-This project is a health care laboratory management system. It provides functionality for managing laboratory operations, patient records, test results, and more.
+This repository is for template for web app project using Go Fiber.
 
 ## Setup
 
